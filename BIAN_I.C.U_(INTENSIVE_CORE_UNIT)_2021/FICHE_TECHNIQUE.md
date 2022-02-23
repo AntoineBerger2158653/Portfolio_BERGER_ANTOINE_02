@@ -16,7 +16,17 @@ I.C.U. (Intensive Care Unit) est une installation robotique mettant en scène de
 Ce texte est directement tiré du cartel de l'oeuvre.
 
 ![photo](MEDIAS/Cartel.jpg)
-## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+## Explications sur la mise en espace de l'oeuvre ou du dispositif
+Pour mettre en place cette oeuvre, il faut un endroit ou une pièce d'environ 10 mètres par 15 mètres en terme de longueur et de largeur.
+Il doit aussi y avoir une certaine hauteur pour pouvoir installer la structure de barres métalliques qui sert à faire tenir les squelettes ainsi que le rectangle de lumière en l'air à l'aide de câbles.
+Cette structure a aussi les projecteur et haut-parleur qui sont fixé dessus.
+Des rideaux noirs doivent faire le tour de la pièce et recouvrir la totalité des murs.
+Le rectangle de lumière doit être suspendu à un mètre au dessus du squelette.
+Le dispositif de support vital doit être situé derrière le squelette, à moins d'un mètre.
+Tout les fils électriques utilisé doivent être caché avec du ruban adhésif noir.
+L'ordinateur qui controle l'oeuvre doit être caché et non visible.
+Il y a 4 ensembles dans cette qui comporte chacun un squelette, un système de support vital ainsi que un rectangle de lumière.
+Ils doivent tous être distancé les uns des autres et l'ensemble doit être disposé comme dans les photos suivantes:
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 - Système de support vital comportant;
