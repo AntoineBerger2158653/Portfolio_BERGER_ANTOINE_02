@@ -27,7 +27,13 @@ Tout les fils électriques utilisé doivent être caché avec du ruban adhésif 
 L'ordinateur qui controle l'oeuvre doit être caché et non visible.
 Il y a 4 ensembles dans cette qui comporte chacun un squelette, un système de support vital ainsi que un rectangle de lumière.
 Ils doivent tous être distancé les uns des autres et l'ensemble doit être disposé comme dans les photos suivantes:
-## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+
+![photo](MEDIAS/Ensemble_de_loeuvre.jpg)
+![photo](MEDIAS/Ensemble_de_loeuvre2.jpg)
+![photo](MEDIAS/Ensemble_de_loeuvre3.jpg)
+![photo](MEDIAS/Element_mis_en_place3.jpg)
+![photo](MEDIAS/Element_mis_en_place1.jpg)
+## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
 - Système de support vital comportant;
 
@@ -54,10 +60,14 @@ Ils doivent tous être distancé les uns des autres et l'ensemble doit être dis
 - Des projecteurs
 
 - Des rideaux noirs fesant le tour de la pièce
+
+![photo](MEDIAS/Composante_de_loeuvre1.jpg)
+![photo](MEDIAS/Composante_de_loeuvre2.jpg)
+![photo](MEDIAS/Composante_de_loeuvre3.jpg)
+![photo](MEDIAS/Composante_de_loeuvre5.jpg)
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
 -Des multiprise
-
 -Des cables de soutiens 
 
 -Un ordinateur et tout l'ensemble pour le faire fonctionner
@@ -65,8 +75,16 @@ Ils doivent tous être distancé les uns des autres et l'ensemble doit être dis
 -Le logiciel controllant l'oeuvre
 
 -une structure de barres de métale
-## Expérience vécue :
-## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+![photo](MEDIAS/Element_mise_en_place2.jpg)
+![photo](MEDIAS/Element_mise_en_place3.jpg)
+![photo](MEDIAS/Element_mise_en_place5.jpg)
+## Expérience vécue : 
+En entrant dans la pièce, on ressent une ambiance lourde qui pèse sur le morale. Le son et les jeux de lumières font ressentir un peu d'anxiété.
+Le squelette robotique réagit à nos mouvements et bougent des parties de son corps comme ses jambes ou bien ses bras et à chaque fois qu'il le fait on entend un soufflement d'air strident. Le dispositif fait en sorte que notre cerveau nous fait croire que le squelette souffre et qu'il est animé et cela nous fait ressentir de l'empathie pour lui et c'est asser bizzare.
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+Ce qui m'a plu est que cette représentation m'a fait prendre du recul par rapport au fait que des gens sont dans la même position que ses squelettes: Ils dépendent de leur système de support vital pour vivre. L'ambiance créer par les sons et les lumières m'a aussi beaucoup plus puisque c'est ce qui fait que cette oeuvre est immersive.
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Le fait que la pièce soit aussi grande et qu'il y ait 4 ensembles de squelettes. Moi j'en aurait fait un seul dans une pièce moyennement grandes et insonnorisé pour que ce soit encore plus immersif.
 ## Références
+http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/
+https://github.com/KarineLEcuyer/H22_TIM_consignes/blob/main/consignes_TP1_TIM_H22.md
