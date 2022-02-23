@@ -48,13 +48,13 @@ Ce texte est directement tiré du cartel de l'oeuvre.
 
 -Des multiprise
 
--Des cables de soutiens pour faire tenir le robot dans les air
+-Des cables de soutiens 
 
--Un ordinateur et tout l,ensemble pour le faire fonctionner
+-Un ordinateur et tout l'ensemble pour le faire fonctionner
 
 -Le logiciel controllant l'oeuvre
 
--
+-une structure de barres de métale
 ## Expérience vécue :
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
