@@ -1,10 +1,16 @@
-# Voici un exemple de fiche technique
+
 ## Titre de l'oeuvre ou de la réalisation
-## Nom de l'artiste ou de la firme
+Mécanismes de déssaisissement (rond,carré,triangle)
+## Nom de l'artiste
+Béchard Hudon
 ## Année de réalisation
+2019-2021
 ## Nom de l'exposition ou de l'événement
+Configuration du sensible
 ## Lieu de mise en exposition
+Maison des arts de Laval
 ## Date de votre visite
+16 Mars 2022
 ## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
