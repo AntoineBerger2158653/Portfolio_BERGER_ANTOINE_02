@@ -42,8 +42,16 @@ Tout les composantes électroniques qui font fonctionner le mécanisme de l'oeuv
 
   - une plaque de fond de la forme requise (carré,cercle ou triangle) qui est plus grande que les deux autres.
  
-  - Deux plaques de la forme requise, une noir et une de la couleur requise (rouge, vert ou bleu)
+  - Deux plaques de la forme requise, une noir et une de la couleur requise (rouge, vert ou bleu).
  
+  - 4 barres métalliques qui font bouger les deux petites plaques.
+
+  - Une structure de barre métallique qui soutient l'oeuvre.
+
+  - Les fils électriques nécessaire pour chaque oeuvre.
+
+  - Les composantes électroniques et mécaniques (que je ne peut pas décrire) qui sont sur la photo ci-dessous:
+  ![photo](MEDIA_BECHARD_HUDON/MEDIA_1280_720/carre_behind.png)
 
 
 
