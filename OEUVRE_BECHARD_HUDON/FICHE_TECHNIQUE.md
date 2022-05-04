@@ -60,6 +60,8 @@ Tout les composantes électroniques qui font fonctionner le mécanisme de l'oeuv
 
 
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+- Une structure de barre métallique qui soutient les projecteurs
+- Un long mur blanc
 ## Expérience vécue :
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
