@@ -63,7 +63,12 @@ Tout les composantes électroniques qui font fonctionner le mécanisme de l'oeuv
 - Une structure de barre métallique qui soutient les projecteurs
 - Un long mur blanc
 ## Expérience vécue :
+J'ai vraiment aimé cette oeuvre et en faisant l'expérience de celle-ci on se rend compte de la complexité et de la précision du design de l'oeuvre. Au premier abord, en regardant l'oeuvre on croit qu'elle est simple, mais en portant attention au méchanismes et au détails, on voit la complexité. Regarder cette oeuvre est hypnotisant et captivant.
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+L'oeuvre n'est pas intéractive, il n'y a rien à faire mise à part rester devant l'oeuvre et la regarder. Elle est captivante, mais je croit que c'est un des points négatif de l'oeuvre qu'il n'y a pas d'intéractiviter.
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+J'ai aimé le fait que quand les formes se superposait une effet optique se produisait comme si les lignes des formes bougeaient.
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Je cacherait les fils et les méchanismes qui ont été laissé visible car je trouve que quant tout est caché le rendu de l'oeuvre est plus propre.
 ## Références
+Cartel de l'oeuvre
